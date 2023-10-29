@@ -8,7 +8,6 @@ seaborn==0.13.0
 streamlit==1.28.0
 streamlit_lottie==0.0.5
 urlextract==1.8.0
-from collections import Counter
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from remove_stopwords import remove_stopwords 
 import streamlit as st
